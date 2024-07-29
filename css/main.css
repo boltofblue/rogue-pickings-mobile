@@ -177,8 +177,8 @@ footer span {
 	font-size: .875rem;
 }
 
-@media all and (min-width: 768px) {
-	/* Tablet styles here */ 
+/*
+@media all and (min-width: 768px) { 
 	.bottom-section .content-wrapper {
 		justify-content: space-evenly;
 	}
@@ -200,9 +200,10 @@ footer span {
 		width: 26%;
 	}
 }
+*/
 
+/*
 @media all and (min-width: 1200px) {
-	/* Desktop styles here */
 	body {
 		font-size: 1em;
 	}
@@ -229,3 +230,4 @@ footer span {
 		justify-content: space-between;
 	}
 }
+/* 
